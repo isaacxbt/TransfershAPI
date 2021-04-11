@@ -1,6 +1,6 @@
-# transfer.sh-api
+# Transfer.sh-api
 
-Fileleaks is a Python library for upload files on [transfer.sh](https://transfer.sh/). 
+Transfer is a Python library for upload files on [transfer.sh](https://transfer.sh/). 
 
 ## About
 
