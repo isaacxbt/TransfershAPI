@@ -1,6 +1,6 @@
 # Transfer.sh-api
 
-Transfer is a Python library for upload files on [transfer.sh](https://transfer.sh/). 
+Transfersh is a Python library for upload files on [transfer.sh](https://transfer.sh/). 
 
 ## About
 
