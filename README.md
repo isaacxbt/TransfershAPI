@@ -4,7 +4,7 @@ Transfersh is a Python library for upload files on [transfer.sh](https://transfe
 
 ## About
 
-This **unofficial** Python API was created to make uploading and downloading files from [transfer.sh](https://transfer.sh/) simple
+This Python API was created to make uploading and downloading files from [transfer.sh](https://transfer.sh/) simple
 
 ## Installation
 
