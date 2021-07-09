@@ -19,7 +19,7 @@ pip install transfersh-cli && pip install wget
 transfersh "filepath"
 ```
 
-### Download files
+### Download files (it doesn't use the api)
 ```python
 import wget
 
