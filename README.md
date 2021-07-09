@@ -14,7 +14,7 @@ pip install transfersh-cli && pip install wget
 ```
 
 ## Usage
-### Upload files (console)
+### Upload files (console, cmd.exe)
 ```bash
 transfersh "filepath"
 ```
